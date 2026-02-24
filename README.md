@@ -21,6 +21,10 @@ Hey there! 👋 Welcome to my corner of GitHub<br>I'm a Software Engineering stu
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DulaniWanigasekara&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+## 📈 GitHub Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DulaniWanigasekara&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true)](https://github.com/DulaniWanigasekara)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=DulaniWanigasekara&icon=0&color=0)](https://visitcount.itsvg.in)
 
