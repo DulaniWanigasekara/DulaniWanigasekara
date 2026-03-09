@@ -79,7 +79,7 @@ Immersing myself in Full-Stack Development — crafting production-ready apps fr
      TECH STACK
      ═══════════════════════════════════════════════════════════ -->
 
-## `$ ls -la skills/`
+## 💻 Tech Stack:
 
 <div align="center">
 
