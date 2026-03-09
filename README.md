@@ -1,13 +1,8 @@
-<!-- ═══════════════════════════════════════════════════════════
-     HERO SECTION — dark/light mode via <picture> element
-     Upload hero-dark.svg and hero-light.svg to your repo at:
-     DulaniWanigasekara/DulaniWanigasekara/assets/
-     ═══════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DulaniWanigasekara/DulaniWanigasekara/main/assets/hero-light.svg">
-  <img src="https://raw.githubusercontent.com/DulaniWanigasekara/DulaniWanigasekara/main/assets/hero-dark.svg" alt="Dulani Wanigasekara — Software Engineer · Full-Stack · UI/UX" width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020010,30:0a0a2e,60:0d1b4b,100:061020&height=300&section=header&text=DULANI%20WANIGASEKARA&fontSize=50&fontColor=00f5ff&fontAlignY=45&desc=Software%20Engineer%20%7C%20Full-Stack%20Dev&descColor=a78bfa&descSize=16&animation=twinkling&stroke=00f5ff&strokeWidth=1" width="100%"/>
+
+</div>
 
 <br/>
 
@@ -31,7 +26,7 @@
 <tr>
 <td valign="top" width="58%">
 
-## `$ whoami`
+## `About Me`
 
 ```yaml
 name     : Dulani Wanigasekara
