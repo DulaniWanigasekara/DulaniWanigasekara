@@ -141,84 +141,26 @@ Immersing myself in Full-Stack Development — crafting production-ready apps fr
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     GITHUB STATS
-     ═══════════════════════════════════════════════════════════ -->
+# 📊 GitHub Status:
+![](https://github-readme-stats.vercel.app/api?username=DulaniWanigasekara&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DulaniWanigasekara&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DulaniWanigasekara&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## `$ git log --stats`
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DulaniWanigasekara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api?username=DulaniWanigasekara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00f5ff&icon_color=7c3aed&text_color=c0caf5&bg_color=0d1117" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulaniWanigasekara&theme=tokyonight&hide_border=true&layout=compact&title_color=00f5ff&text_color=c0caf5&bg_color=0d1117" height="160"/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DulaniWanigasekara&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<br/><br/>
+## 📈 GitHub Activity Graph
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DulaniWanigasekara&theme=tokyonight&hide_border=true&ring=00f5ff&fire=7c3aed&currStreakLabel=00f5ff&background=0d1117" width="68%"/>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DulaniWanigasekara&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true)](https://github.com/DulaniWanigasekara)
 
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     TROPHIES
-     ═══════════════════════════════════════════════════════════ -->
-
-## `$ trophy --display`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DulaniWanigasekara&theme=tokyonight&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     TOP CONTRIBUTED REPO
-     ═══════════════════════════════════════════════════════════ -->
-
-## `$ git top --contributed`
-
-<div align="center">
-
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=DulaniWanigasekara&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)](https://github.com/DulaniWanigasekara)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     ACTIVITY GRAPH
-     ═══════════════════════════════════════════════════════════ -->
-
-## `$ watch -n 1 contributions --graph`
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DulaniWanigasekara&bg_color=0d1117&color=00f5ff&line=7c3aed&point=00f5ff&area_color=0d1b4b&area=true&hide_border=true&custom_title=◈%20Dulani's%20Contribution%20Matrix)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     QUOTE + FOOTER
-     ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  "A program that produces incorrect results twice as fast        │
-│   is infinitely slower."                  — John Ousterhout      │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=DulaniWanigasekara&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br/>
 
