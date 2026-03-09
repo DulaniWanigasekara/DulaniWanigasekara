@@ -1,31 +1,238 @@
-# 💫 About Me:
-Hey there! 👋 Welcome to my corner of GitHub<br>I'm a Software Engineering student on a mission to create software that doesn't just work—it matters. I believe the best solutions come from the intersection of clean code, thoughtful design, and genuine problem-solving.<br>💻 What I'm Building<br>Right now, I'm immersing myself in Full-stack development, learning to craft complete, production-ready applications from database to user interface. I'm exploring modern frameworks, API design, and the art of turning ideas into fully functional digital experiences.<br>🎨 What Inspires Me<br>I'm passionate about more than just writing code—I'm driven by the entire creative process:<br><br>🎭 Digital Art — Visual storytelling and creative expression<br>🎯 UI/UX Design — Creating intuitive, beautiful interfaces that feel right<br>⚙️ Clean Code — Writing software that's a joy to maintain and build upon<br><br>I believe that great software is where functionality meets design, where user experience guides every line of code.
+<!-- ═══════════════════════════════════════════════════════════
+     HERO SECTION — dark/light mode via <picture> element
+     Upload hero-dark.svg and hero-light.svg to your repo at:
+     DulaniWanigasekara/DulaniWanigasekara/assets/
+     ═══════════════════════════════════════════════════════════ -->
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DulaniWanigasekara/DulaniWanigasekara/main/assets/hero-light.svg">
+  <img src="https://raw.githubusercontent.com/DulaniWanigasekara/DulaniWanigasekara/main/assets/hero-dark.svg" alt="Dulani Wanigasekara — Software Engineer · Full-Stack · UI/UX" width="100%">
+</picture>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dulani-wanigasekara) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dulanipiusha@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DulaniWanigasekara&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DulaniWanigasekara&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DulaniWanigasekara&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ═══════════════════════════════════════════════════════════
+     TYPING ANIMATION
+     ═══════════════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DulaniWanigasekara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+initializing+portfolio.exe...+%E2%96%88;%3E+loading+skills+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25+%E2%9C%93;%3E+passion%3A+clean+code+%2B+beautiful+design+%3A+true;%3E+status%3A+building+software+that+matters+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DulaniWanigasekara&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</div>
 
-## 📈 GitHub Activity Graph
+<br/>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DulaniWanigasekara&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true)](https://github.com/DulaniWanigasekara)
+<!-- ═══════════════════════════════════════════════════════════
+     ABOUT — terminal YAML style
+     ═══════════════════════════════════════════════════════════ -->
 
----
-[![](https://visitcount.itsvg.in/api?id=DulaniWanigasekara&icon=0&color=0)](https://visitcount.itsvg.in)
+<table>
+<tr>
+<td valign="top" width="58%">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `$ whoami`
+
+```yaml
+name     : Dulani Wanigasekara
+role     : Software Engineering Student
+status   : 🟢 open to opportunities
+focus    : Full-Stack Development
+passion  : [Code, Design, Digital Art]
+belief   : "Great software is where
+            functionality meets design"
+```
+
+**💻 What I'm Building**
+
+Immersing myself in Full-Stack Development — crafting production-ready apps from database all the way to UI. Modern frameworks, API design, and turning ideas into fully functional digital experiences.
+
+**🎨 What Inspires Me**
+
+- 🎭 **Digital Art** — Visual storytelling at its core  
+- 🌸 **UI/UX Design** — Interfaces that feel *right*  
+- ⚙️ **Clean Code** — Built to last, built to grow
+
+</td>
+<td valign="top" width="42%">
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" alt="coding animation"/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=DulaniWanigasekara&color=00f5ff&style=flat-square&label=👁️+profile+views)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     SOCIALS
+     ═══════════════════════════════════════════════════════════ -->
+
+## `$ ping connections --all`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/⟨_LinkedIn_⟩-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dulani-wanigasekara)
+[![Gmail](https://img.shields.io/badge/⟨_Gmail_⟩-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/⟨_GitHub_⟩-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DulaniWanigasekara)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     TECH STACK
+     ═══════════════════════════════════════════════════════════ -->
+
+## `$ ls -la skills/`
+
+<div align="center">
+
+**— LANGUAGES —**
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**— FRAMEWORKS & LIBRARIES —**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08F)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens)
+
+**— CLOUD & DEVOPS —**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**— DATABASES —**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+**— DESIGN & CREATIVE —**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     GITHUB STATS
+     ═══════════════════════════════════════════════════════════ -->
+
+## `$ git log --stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DulaniWanigasekara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00f5ff&icon_color=7c3aed&text_color=c0caf5&bg_color=0d1117" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulaniWanigasekara&theme=tokyonight&hide_border=true&layout=compact&title_color=00f5ff&text_color=c0caf5&bg_color=0d1117" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DulaniWanigasekara&theme=tokyonight&hide_border=true&ring=00f5ff&fire=7c3aed&currStreakLabel=00f5ff&background=0d1117" width="68%"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     TROPHIES
+     ═══════════════════════════════════════════════════════════ -->
+
+## `$ trophy --display`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DulaniWanigasekara&theme=tokyonight&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     TOP CONTRIBUTED REPO
+     ═══════════════════════════════════════════════════════════ -->
+
+## `$ git top --contributed`
+
+<div align="center">
+
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=DulaniWanigasekara&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)](https://github.com/DulaniWanigasekara)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     ACTIVITY GRAPH
+     ═══════════════════════════════════════════════════════════ -->
+
+## `$ watch -n 1 contributions --graph`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DulaniWanigasekara&bg_color=0d1117&color=00f5ff&line=7c3aed&point=00f5ff&area_color=0d1b4b&area=true&hide_border=true&custom_title=◈%20Dulani's%20Contribution%20Matrix)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     QUOTE + FOOTER
+     ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  "A program that produces incorrect results twice as fast        │
+│   is infinitely slower."                  — John Ousterhout      │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a0a2e,100:020010&height=120&section=footer&text=let's+build+something+that+matters&fontSize=15&fontColor=00f5ff&fontAlignY=68&animation=twinkling" width="100%"/>
