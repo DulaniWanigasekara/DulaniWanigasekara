@@ -53,11 +53,10 @@ Immersing myself in Full-Stack Development — crafting production-ready apps fr
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" alt="coding animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" alt="coding animation"/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=DulaniWanigasekara&color=00f5ff&style=flat-square&label=👁️+profile+views)
 
 </div>
 
