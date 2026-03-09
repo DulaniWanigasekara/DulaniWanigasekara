@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#020010"/>
+      <stop offset="40%" style="stop-color:#0a0a2e"/>
+      <stop offset="70%" style="stop-color:#0d1b4b"/>
+      <stop offset="100%" style="stop-color:#061020"/>
+    </linearGradient>
+    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:rgba(0,245,255,0)"/>
+      <stop offset="50%" style="stop-color:rgba(0,245,255,0.4)"/>
+      <stop offset="100%" style="stop-color:rgba(0,245,255,0)"/>
+    </linearGradient>
+    <radialGradient id="orb1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:rgba(0,245,255,0.12)"/>
+      <stop offset="100%" style="stop-color:rgba(0,245,255,0)"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:rgba(124,58,237,0.15)"/>
+      <stop offset="100%" style="stop-color:rgba(124,58,237,0)"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="380" fill="url(#bg)"/>
+
+  <!-- Grid lines -->
+  <g stroke="rgba(0,245,255,0.04)" stroke-width="1">
+    <line x1="0" y1="40" x2="900" y2="40"/>
+    <line x1="0" y1="80" x2="900" y2="80"/>
+    <line x1="0" y1="120" x2="900" y2="120"/>
+    <line x1="0" y1="160" x2="900" y2="160"/>
+    <line x1="0" y1="200" x2="900" y2="200"/>
+    <line x1="0" y1="240" x2="900" y2="240"/>
+    <line x1="0" y1="280" x2="900" y2="280"/>
+    <line x1="0" y1="320" x2="900" y2="320"/>
+    <line x1="0" y1="360" x2="900" y2="360"/>
+    <line x1="40" y1="0" x2="40" y2="380"/>
+    <line x1="80" y1="0" x2="80" y2="380"/>
+    <line x1="120" y1="0" x2="120" y2="380"/>
+    <line x1="160" y1="0" x2="160" y2="380"/>
+    <line x1="200" y1="0" x2="200" y2="380"/>
+    <line x1="240" y1="0" x2="240" y2="380"/>
+    <line x1="280" y1="0" x2="280" y2="380"/>
+    <line x1="320" y1="0" x2="320" y2="380"/>
+    <line x1="360" y1="0" x2="360" y2="380"/>
+    <line x1="400" y1="0" x2="400" y2="380"/>
+    <line x1="440" y1="0" x2="440" y2="380"/>
+    <line x1="480" y1="0" x2="480" y2="380"/>
+    <line x1="520" y1="0" x2="520" y2="380"/>
+    <line x1="560" y1="0" x2="560" y2="380"/>
+    <line x1="600" y1="0" x2="600" y2="380"/>
+    <line x1="640" y1="0" x2="640" y2="380"/>
+    <line x1="680" y1="0" x2="680" y2="380"/>
+    <line x1="720" y1="0" x2="720" y2="380"/>
+    <line x1="760" y1="0" x2="760" y2="380"/>
+    <line x1="800" y1="0" x2="800" y2="380"/>
+    <line x1="840" y1="0" x2="840" y2="380"/>
+    <line x1="880" y1="0" x2="880" y2="380"/>
+  </g>
+
+  <!-- Glow orbs -->
+  <ellipse cx="60" cy="60" rx="180" ry="180" fill="url(#orb1)" opacity="0.7"/>
+  <ellipse cx="680" cy="300" rx="150" ry="150" fill="url(#orb2)" opacity="0.8"/>
+
+  <!-- Corner brackets -->
+  <g stroke="#00f5ff" stroke-width="2" fill="none">
+    <polyline points="10,30 10,10 30,10"/>
+    <polyline points="870,10 890,10 890,30"/>
+    <polyline points="10,350 10,370 30,370"/>
+    <polyline points="870,370 890,370 890,350"/>
+  </g>
+
+  <!-- Scan line animation -->
+  <rect x="0" y="0" width="900" height="2" fill="url(#scanGrad)">
+    <animate attributeName="y" from="0" to="380" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- STATUS TAG -->
+  <rect x="40" y="30" width="160" height="22" rx="11" fill="none" stroke="rgba(0,245,255,0.5)" stroke-width="1">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="56" cy="41" r="4" fill="#00ff88">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="66" y="46" font-family="monospace" font-size="10" fill="#00f5ff" letter-spacing="2">▶ ONLINE // READY</text>
+
+  <!-- NAME -->
+  <text x="40" y="90" font-family="monospace" font-size="36" font-weight="bold" fill="white" filter="url(#glow)">DULANI</text>
+  <text x="40" y="132" font-family="monospace" font-size="36" font-weight="bold" fill="#00f5ff" filter="url(#glow)">WANIGASEKARA</text>
+
+  <!-- ROLE -->
+  <text x="40" y="158" font-family="monospace" font-size="11" fill="#7c3aed" letter-spacing="3">SOFTWARE ENGINEER · FULL-STACK · UI/UX</text>
+
+  <!-- DIVIDER -->
+  <line x1="40" y1="170" x2="420" y2="170" stroke="rgba(0,245,255,0.2)" stroke-width="1"/>
+
+  <!-- DESC -->
+  <text x="40" y="192" font-family="monospace" font-size="12" fill="rgba(255,255,255,0.6)">Building software that doesn't just work —</text>
+  <text x="40" y="210" font-family="monospace" font-size="12" fill="rgba(255,255,255,0.6)">it <tspan fill="#00f5ff" font-weight="bold">matters</tspan>. Where clean code meets</text>
+  <text x="40" y="228" font-family="monospace" font-size="12" fill="rgba(255,255,255,0.6)">beautiful design.</text>
+
+  <!-- BUTTONS -->
+  <!-- LinkedIn -->
+  <rect x="40" y="248" width="110" height="28" rx="6" fill="rgba(0,245,255,0.1)" stroke="rgba(0,245,255,0.5)" stroke-width="1"/>
+  <text x="95" y="267" font-family="monospace" font-size="11" fill="#00f5ff" text-anchor="middle">⟨ LinkedIn ⟩</text>
+  <!-- Email -->
+  <rect x="160" y="248" width="90" height="28" rx="6" fill="rgba(124,58,237,0.1)" stroke="rgba(124,58,237,0.5)" stroke-width="1"/>
+  <text x="205" y="267" font-family="monospace" font-size="11" fill="#a78bfa" text-anchor="middle">⟨ Email ⟩</text>
+  <!-- GitHub -->
+  <rect x="260" y="248" width="100" height="28" rx="6" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+  <text x="310" y="267" font-family="monospace" font-size="11" fill="rgba(255,255,255,0.7)" text-anchor="middle">⟨ GitHub ⟩</text>
+
+  <!-- ═══ CHARACTER SIDE (pure SVG anime girl) ═══ -->
+  <!-- Floating animation base group -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-12; 0,0" dur="3s" repeatCount="indefinite" additive="sum"/>
+
+    <!-- SPEECH BUBBLE -->
+    <rect x="590" y="25" width="240" height="70" rx="14" ry="14" fill="rgba(0,245,255,0.08)" stroke="rgba(0,245,255,0.35)" stroke-width="1.5"/>
+    <!-- bubble tail -->
+    <polygon points="720,95 735,110 750,95" fill="rgba(0,245,255,0.08)" stroke="rgba(0,245,255,0.35)" stroke-width="1.5"/>
+    <text x="710" y="52" font-family="monospace" font-size="11" fill="#00f5ff" text-anchor="middle" font-style="italic">"Hey! Dark mode? You're</text>
+    <text x="710" y="68" font-family="monospace" font-size="11" fill="#00f5ff" text-anchor="middle" font-style="italic">already thinking like</text>
+    <text x="710" y="84" font-family="monospace" font-size="11" fill="#00f5ff" text-anchor="middle" font-style="italic">a developer 🔥"</text>
+
+    <!-- ANIME CHARACTER - pure SVG -->
+    <!-- Body/dress -->
+    <ellipse cx="710" cy="310" rx="55" ry="65" fill="#0d2a6e"/>
+    <!-- Dress detail -->
+    <ellipse cx="710" cy="330" rx="50" ry="50" fill="#0a1f52"/>
+    <!-- Collar -->
+    <polygon points="695,240 710,260 725,240" fill="#1a3a8f"/>
+
+    <!-- Neck -->
+    <rect x="703" y="220" width="14" height="22" rx="7" fill="#f5c5a3"/>
+
+    <!-- Head -->
+    <ellipse cx="710" cy="200" rx="42" ry="45" fill="#f5c5a3"/>
+
+    <!-- Hair - back -->
+    <ellipse cx="710" cy="175" rx="46" ry="30" fill="#1a1a2e"/>
+    <!-- Hair top -->
+    <ellipse cx="710" cy="162" rx="42" ry="22" fill="#1a1a2e"/>
+    <!-- Hair sides -->
+    <ellipse cx="668" cy="200" rx="12" ry="35" fill="#1a1a2e"/>
+    <ellipse cx="752" cy="200" rx="12" ry="35" fill="#1a1a2e"/>
+    <!-- Hair strands -->
+    <path d="M 668 175 Q 650 210 655 240" stroke="#1a1a2e" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <path d="M 752 175 Q 770 210 765 240" stroke="#1a1a2e" stroke-width="10" fill="none" stroke-linecap="round"/>
+
+    <!-- Eyes -->
+    <ellipse cx="695" cy="202" rx="8" ry="9" fill="white"/>
+    <ellipse cx="725" cy="202" rx="8" ry="9" fill="white"/>
+    <ellipse cx="696" cy="203" rx="5" ry="6" fill="#00a8ff"/>
+    <ellipse cx="726" cy="203" rx="5" ry="6" fill="#00a8ff"/>
+    <ellipse cx="697" cy="203" rx="3" ry="3.5" fill="#003366"/>
+    <ellipse cx="727" cy="203" rx="3" ry="3.5" fill="#003366"/>
+    <!-- Eye shine -->
+    <circle cx="699" cy="200" r="1.5" fill="white"/>
+    <circle cx="729" cy="200" r="1.5" fill="white"/>
+    <!-- Eyelashes -->
+    <path d="M 687 196 Q 691 192 695 194" stroke="#1a1a2e" stroke-width="1.5" fill="none"/>
+    <path d="M 717 196 Q 721 192 725 194" stroke="#1a1a2e" stroke-width="1.5" fill="none"/>
+
+    <!-- Eyebrows -->
+    <path d="M 688 193 Q 695 188 702 191" stroke="#1a1a2e" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M 718 191 Q 725 188 732 193" stroke="#1a1a2e" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+    <!-- Nose -->
+    <path d="M 708 210 Q 710 216 712 210" stroke="rgba(180,100,80,0.5)" stroke-width="1.5" fill="none"/>
+
+    <!-- Smile -->
+    <path d="M 700 220 Q 710 228 720 220" stroke="#d4776a" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+    <!-- Blush -->
+    <ellipse cx="688" cy="215" rx="8" ry="5" fill="rgba(255,150,150,0.3)"/>
+    <ellipse cx="732" cy="215" rx="8" ry="5" fill="rgba(255,150,150,0.3)"/>
+
+    <!-- Arms -->
+    <path d="M 660 260 Q 640 290 645 320" stroke="#0d2a6e" stroke-width="18" fill="none" stroke-linecap="round"/>
+    <path d="M 760 260 Q 780 290 775 320" stroke="#0d2a6e" stroke-width="18" fill="none" stroke-linecap="round"/>
+    <!-- Hands -->
+    <ellipse cx="645" cy="325" rx="10" ry="10" fill="#f5c5a3"/>
+    <ellipse cx="775" cy="325" rx="10" ry="10" fill="#f5c5a3"/>
+
+    <!-- Laptop -->
+    <rect x="645" y="325" width="130" height="80" rx="5" fill="#0a0a1a" stroke="#00f5ff" stroke-width="1.5"/>
+    <rect x="650" y="330" width="120" height="65" rx="3" fill="#0d1b3e"/>
+    <!-- Screen glow -->
+    <rect x="655" y="335" width="110" height="55" rx="2" fill="#061530" opacity="0.8"/>
+    <!-- Code lines on screen -->
+    <rect x="660" y="342" width="60" height="3" rx="1" fill="#00f5ff" opacity="0.7"/>
+    <rect x="660" y="350" width="80" height="3" rx="1" fill="#7c3aed" opacity="0.7"/>
+    <rect x="660" y="358" width="50" height="3" rx="1" fill="#00f5ff" opacity="0.5"/>
+    <rect x="660" y="366" width="70" height="3" rx="1" fill="#00ff88" opacity="0.6"/>
+    <rect x="660" y="374" width="40" height="3" rx="1" fill="#7c3aed" opacity="0.5"/>
+
+    <!-- Blue fire effects (Azula-inspired!) -->
+    <path d="M 760 270 Q 775 255 770 240 Q 785 250 780 235 Q 795 248 785 260 Q 790 270 775 275 Z" fill="#00a8ff" opacity="0.7">
+      <animate attributeName="opacity" values="0.7;0.4;0.9;0.5;0.7" dur="1.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 765 265 Q 778 252 774 240 Q 786 250 782 238 Q 793 250 784 263 Z" fill="#0066ff" opacity="0.5">
+      <animate attributeName="opacity" values="0.5;0.8;0.3;0.7;0.5" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+
+  </g>
+
+  <!-- Bottom decorative line -->
+  <line x1="40" y1="360" x2="860" y2="360" stroke="rgba(0,245,255,0.1)" stroke-width="1"/>
+  <text x="450" y="374" font-family="monospace" font-size="9" fill="rgba(0,245,255,0.3)" text-anchor="middle" letter-spacing="4">◈ DULANI.DEV ◈</text>
+
+</svg>
