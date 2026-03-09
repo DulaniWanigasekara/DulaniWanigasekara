@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020010,30:0a0a2e,60:0d1b4b,100:061020&height=300&section=header&text=DULANI%20WANIGASEKARA&fontSize=50&fontColor=00f5ff&fontAlignY=45&desc=Software%20Engineer%20%7C%20Full-Stack%20Dev&descColor=a78bfa&descSize=16&animation=twinkling&stroke=00f5ff&strokeWidth=1" width="100%"/>
-
-</div>
 
 <br/>
 
