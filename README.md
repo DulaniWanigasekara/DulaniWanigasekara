@@ -163,4 +163,3 @@ Immersing myself in Full-Stack Development — crafting production-ready apps fr
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a0a2e,100:020010&height=120&section=footer&text=let's+build+something+that+matters&fontSize=15&fontColor=00f5ff&fontAlignY=68&animation=twinkling" width="100%"/>
