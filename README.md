@@ -67,17 +67,9 @@ Immersing myself in Full-Stack Development — crafting production-ready apps fr
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     SOCIALS
-     ═══════════════════════════════════════════════════════════ -->
 
-## `$ ping connections --all`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/⟨_LinkedIn_⟩-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dulani-wanigasekara)
-[![Gmail](https://img.shields.io/badge/⟨_Gmail_⟩-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/⟨_GitHub_⟩-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DulaniWanigasekara)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dulani-wanigasekara) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dulanipiusha@gmail.com) 
 
 </div>
 
