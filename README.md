@@ -1,16 +1,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     TYPING ANIMATION
-     ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+initializing+portfolio.exe...+%E2%96%88;%3E+loading+skills+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25+%E2%9C%93;%3E+passion%3A+clean+code+%2B+beautiful+design+%3A+true;%3E+status%3A+building+software+that+matters+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════
@@ -37,11 +27,6 @@ belief   : "Great software is where
 
 Immersing myself in Full-Stack Development — crafting production-ready apps from database all the way to UI. Modern frameworks, API design, and turning ideas into fully functional digital experiences.
 
-**🎨 What Inspires Me**
-
-- 🎭 **Digital Art** — Visual storytelling at its core  
-- 🌸 **UI/UX Design** — Interfaces that feel *right*  
-- ⚙️ **Clean Code** — Built to last, built to grow
 
 </td>
 <td valign="top" width="42%">
@@ -136,18 +121,9 @@ Immersing myself in Full-Stack Development — crafting production-ready apps fr
 <br/>
 
 # 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=DulaniWanigasekara&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DulaniWanigasekara&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DulaniWanigasekara&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DulaniWanigasekara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DulaniWanigasekara&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ## 📈 GitHub Activity Graph
 
