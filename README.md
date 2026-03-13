@@ -121,13 +121,17 @@ Immersing myself in Full-Stack Development — crafting production-ready apps fr
 <br/>
 
 # 📊 GitHub Status:
-![](https://nirzak-streak-stats.vercel.app/?user=DulaniWanigasekara&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DulaniWanigasekara&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=DulaniWanigasekara&theme=tokyonight&hide_border=false" height="160"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulaniWanigasekara&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
+</p>
 
 
 ## 📈 GitHub Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DulaniWanigasekara&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true)](https://github.com/DulaniWanigasekara)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DulaniWanigasekara&bg_color=1a1b27&color=70a5fd&line=bb9af7&point=70a5fd&area=true&area_color=bb9af7&hide_border=true" width="100%"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DulaniWanigasekara&icon=0&color=0)](https://visitcount.itsvg.in)
