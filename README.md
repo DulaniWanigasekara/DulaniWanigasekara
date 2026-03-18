@@ -44,6 +44,7 @@ Immersing myself in Full-Stack Development — crafting production-ready apps fr
 </tr>
 </table>
 
+<div align = "center">
 <br/>
 
 
