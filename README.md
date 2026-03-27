@@ -123,8 +123,7 @@ Immersing myself in Full-Stack Development — crafting production-ready apps fr
 
 # 📊 GitHub Status:
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DulaniWanigasekara&theme=tokyonight&hide_border=false" height="160"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DulaniWanigasekara&theme=tokyonight&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulaniWanigasekara&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
 </p>
 
