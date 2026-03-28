@@ -15,7 +15,7 @@
 
 ```yaml
 name     : Dulani Wanigasekara
-role     : Software Engineering Student
+role     : Software Engineering Trainee
 status   : 🟢 open to opportunities
 focus    : Full-Stack Development
 passion  : [Code, Design, Digital Art]
