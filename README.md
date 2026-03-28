@@ -18,7 +18,7 @@ name     : Dulani Wanigasekara
 role     : Software Engineering Trainee
 status   : 🟢 open to opportunities
 focus    : Full-Stack Development
-passion  : [Code, Design, Digital Art]
+passion  : Code, Design & Problem Solving
 belief   : "Great software is where
             functionality meets design"
 ```
