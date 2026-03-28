@@ -25,7 +25,7 @@ belief   : "Great software is where
 
 **💻 What I'm Building**
 
-Immersing myself in Full-Stack Development — crafting production-ready apps from database all the way to UI. Modern frameworks, API design, and turning ideas into fully functional digital experiences.
+Immersing myself in Full-Stack Development — crafting production ready apps from database all the way to UI. Modern frameworks, API design, and turning ideas into fully functional digital experiences.
 
 
 </td>
