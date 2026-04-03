@@ -14,12 +14,12 @@
 ## `About Me`
 
 ```yaml
-name     : Dulani Wanigasekara
-role     : Software Engineering Trainee
-status   : 🟢 open to opportunities
-focus    : Full-Stack Development
-passion  : Code, Design & Problem Solving
-belief   : "Great software is where
+Name     : Dulani Wanigasekara
+Role     : Software Engineering Trainee
+Status   : 🟢 open to opportunities
+Focus    : Full-Stack Development
+Passion  : Code, Design & Problem Solving
+Belief   : "Great software is where
             functionality meets design"
 ```
 
