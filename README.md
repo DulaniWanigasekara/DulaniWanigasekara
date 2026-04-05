@@ -124,7 +124,7 @@ Immersing myself in Full-Stack Development — crafting production ready apps fr
 # 📊 GitHub Status:
 <p align="center">
   <img src="https://github-readme-stats-two-beta-28.vercel.app/api?username=DulaniWanigasekara&show_icons=true&hide_border=false&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&icon_color=bf91f3&include_all_commits=true&count_private=false&rank_icon=circle" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DulaniWanigasekara&theme=tokyonight&background=1a1b26&v=2" height="160" />
+<img src="https://streak-stats.demolab.com/?user=DulaniWanigasekara&theme=tokyonight&background=1a1b26&hide_border=false" height="160" />
 </p>
 
 ## 📈 GitHub Activity Graph
