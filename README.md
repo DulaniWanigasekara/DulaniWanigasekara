@@ -23,9 +23,10 @@ Belief   : "Great software is where
             functionality meets design"
 ```
 
-**💻 What I'm Building**
+**🛠 What I do**
 
-Immersing myself in Full-Stack Development — crafting production ready apps from database all the way to UI. Modern frameworks, API design, and turning ideas into fully functional digital experiences.
+Turn napkin ideas into deployed software.
+I live in the gap between "what if" and "it's live."
 
 
 </td>
