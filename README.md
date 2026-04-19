@@ -19,7 +19,7 @@ Role     : Software Engineering Trainee
 Status   : 🟢 open to opportunities
 Focus    : Full-Stack Development
 Passion  : Code, Design & Problem Solving
-Belief   : Software that looks bad gets ignored
+Belief   : Software that looks bad gets ignored;
            Software that works badly gets deleted
 
 ```
