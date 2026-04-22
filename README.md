@@ -28,7 +28,8 @@ Belief   : Software that looks bad gets ignored;
 
 Turn napkin ideas into deployed software.\
 I live in the gap between "what if" and "it's live".\
-I care more about shipping than perfecting. Clean code is great; working code ships first.
+I care more about shipping than perfecting.\ 
+Clean code is great; working code ships first.
 
 
 </td>
