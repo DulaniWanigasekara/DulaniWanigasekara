@@ -27,7 +27,7 @@ Belief   : Software that looks bad gets ignored;
 
 Turn napkin ideas into deployed software.\
 I live in the gap between "what if" and "it's live".\
-**Done is a feature. Shipped is a strategy.**\ 
+**Done is a feature; Shipped is a strategy;**
 **Perfect is a calendar event that never arrives.**
 
 
